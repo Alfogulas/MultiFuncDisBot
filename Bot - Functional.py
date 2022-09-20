@@ -271,4 +271,4 @@ async def spam(ctx, target: discord.User, *, mess):
         time.sleep(2)
 
 
-client.run("ODQxMzgwMzgwOTMwMzQyOTIz.YJl6ig.Cc6PxMGA8TDbOCdZ7B8HFYYE9Es")
+client.run("BOT TOKEN GOES HERE")
